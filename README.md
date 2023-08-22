@@ -1,16 +1,22 @@
-### Hi there 👋
+<table align="right">
+  <tr>
+    <td height="43px">
+      <b>
+        <a href="README.md">Português 🇧🇷</a>
+      </b>
+    </td>
+  </tr>
+  <tr>
+    <td height="43px">
+      <a href="readme-en.md">English 🇺🇸</a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**NicolasJardin/NicolasJardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicolasJardin%2FNicolasJardin&label=Visitantes&countColor=%23263759" alt="Contador de visitantes de NicolasJardin" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
