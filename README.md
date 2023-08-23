@@ -1,6 +1,8 @@
 ### Hey, I'm Nicolas Jardin 👋
 
-<img align="center" src="./assets/about.png" width="100%" alt="Título da seção Sobre Mim" />
+<a href="readme-pt.md">🇧🇷 Switch language</a>
+
+<img align="center" src="./assets/en/about.png" width="100%" alt="Título da seção Sobre Mim" />
 
 <br />
 
@@ -24,7 +26,7 @@
 
 <br />
 
-<img align="center" src="./assets/stack.png" width="100%" alt="My Stack Section Title" />
+<img align="center" src="./assets/en/stack.png" width="100%" alt="My Stack Section Title" />
 
 <br />
 
@@ -40,7 +42,7 @@
 
 <br />
 
-<img align="center" src="./assets/contact.png" width="100%" alt="Contact Section Title" />
+<img align="center" src="./assets/en/contact.png" width="100%" alt="Contact Section Title" />
 
 <br />
 
