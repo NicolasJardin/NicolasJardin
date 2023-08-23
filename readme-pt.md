@@ -1,4 +1,4 @@
-### Hey, I'm Nicolas Jardin 👋
+### Olá, eu sou Nicolas Jardin 👋
 
 <a href="README.md">🇺🇸 Mudar de idioma</a>
 
