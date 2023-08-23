@@ -44,10 +44,13 @@
 
 <br />
 
-<p>Linkedin: <a>https://www.linkedin.com/in/jardin-nicolas/</a></p>
-<p>Instagram: <a>https://www.instagram.com/nicolas_jardiin/</a></p>
-<p>Whatsapp: <a>https://wa.me/5551993736233</a></p>
-<p>Gmail: nicolasjdev@gmail.com</p>
+<a href="https://www.linkedin.com/in/jardin-nicolas/">Linkedin</a>
+
+<a href="https://www.instagram.com/nicolas_jardiin/">Instagram</a>
+
+<a href="https://wa.me/5551993736233">Whatsapp</a>
+
+<p>Email: nicolasjdev@gmail.com</p>
 
 <hr />
 
