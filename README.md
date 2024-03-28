@@ -1,59 +1,40 @@
-### Hey, I'm Nicolas Jardin 👋
+### Hello, I'm Nicolas Jardin 👋
 
-<a href="readme-pt.md">🇧🇷 Switch language</a>
+[Switch to PT-BR](readme-pt.md)
 
-<img align="center" src="./assets/en/about.png" width="100%" alt="Título da seção Sobre Mim" />
+# Nicolas Jardin - Fullstack Developer
 
-<br />
+Hello, I'm Nicolas Jardin, a fullstack developer with over 3 years of experience, specializing in creating scalable and efficient web solutions. I'm always on the lookout for challenges that allow me to apply and expand my knowledge in technology.
 
-<ul>
-  <li>
-    🤩️ I'm a passionate frontend developer with over 2 years of experience in React.
-  </li>
+## Professional Experience
 
-  <li>
-    🚀 Currently, I'm a proud member of the frontend development team at Moovin E-commerce Platform.
-  </li>
+- Web Developer at Moovin E-commerce Platform, participating in the development of the new E-commerce platform from its inception to launch.
 
-  <li>
-    🎮 When I'm not immersed in lines of code, you can find me diving into virtual gaming worlds, exploring new anime, or following series.
-  </li>
+- Lead fullstack Next.js developer at Whatsflow in a WhatsApp automation project.
 
-  <li>
-    📚 Technology is an ever-evolving universe, and I'm committed to learning and growing.
-  </li>
-</ul>
+- Frontend Developer at Vent on a Dashboard management panel.
 
-<br />
+### Frontend
 
-<img align="center" src="./assets/en/stack.png" width="100%" alt="My Stack Section Title" />
+- **Main Stacks:** ReactJS, NextJS, TailwindCSS, Material UI, TypeScript, Shadcn UI, Chakra UI
 
-<br />
+### Backend
 
-<ul>
-  <li>
-    💡 My main tools include React and NextJS, which I use to create elegant and responsive interfaces. I love working with TypeScript, ensuring the quality and scalability of my code. Additionally, I'm a fan of Material UI, as I believe design is a fundamental part of the user experience.
-    </li>
+- **Main Stacks:** Node.js, NestJS, MongoDB, MySQL, Prisma, TypeORM, Express
 
-  <li>
-    🔧 My toolbox includes various technologies, such as trpc, React-hook-form, React Query, and much more. I'm versatile in styling languages like Sass and Tailwind CSS and have experience with databases like MySQL, MongoDB, and PostgreSQL. I've also delved into the world of micro-frontends, Docker, and Node.
-  </li>
-</ul>
+## Side Projects
 
-<br />
+- [Payments](https://payment-platform-web.vercel.app) - Web payment platform, a financial management solution that simplifies the payment and balance management process developed with ReactJs, Material UI, NestJS, and Prisma.
 
-<img align="center" src="./assets/en/contact.png" width="100%" alt="Contact Section Title" />
+- [Workstation](https://workstation-gray.vercel.app/) - Customizable Pomodoro Web app, developed with NextJS, TailwindCSS, and Shadcn UI.
 
-<br />
+## Contact
 
-<a href="https://www.linkedin.com/in/jardin-nicolas/">Linkedin</a>
+- LinkedIn: [jardin-nicolas](https://www.linkedin.com/in/jardin-nicolas/)
+- Instagram: [nicolas_jardiin](https://www.instagram.com/nic0las_sant0ss/)
+- Whatsapp: [+5551993736233](https://wa.me/5551993736233)
+- Email: nicolasjdev@gmail.com
 
-<a href="https://www.instagram.com/nicolas_jardiin/">Instagram</a>
+---
 
-<a href="https://wa.me/5551993736233">Whatsapp</a>
-
-<p>Email: nicolasjdev@gmail.com</p>
-
-<hr />
-
-🇧🇷 Born in Porto Alegre, Brazil
+🌎 Born in Porto Alegre, Brazil
